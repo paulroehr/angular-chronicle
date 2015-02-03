@@ -1,0 +1,25 @@
+{
+  "name": "angular-chronicle",
+  "version": "0.1.0",
+  "homepage": "https://github.com/blackfizz/angular-chronicle",
+  "authors": [
+    "Paul Cech <paul.cech92@gmail.com>"
+  ],
+  "description": "An angular directive for saving and retrieving input-field data in a terminal-like manner.",
+  "main": "angular-chronicle.js",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "Apache V2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js",
+    "package.json",
+    ".idea",
+    "docs"
+  ]
+}

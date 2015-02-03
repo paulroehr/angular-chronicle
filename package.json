@@ -1,0 +1,17 @@
+{
+  "name": "angular-chronicle",
+  "version": "0.1.0",
+  "repository": "git://github.com/blackfizz/angular-chronicle.git",
+  "devDependencies": {
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-qunit": "~0.3.0",
+    "grunt-bower-task": "~0.3.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-cli": "~0.1.9",
+    "grunt-ngdocs": "~0.1.7",
+    "grunt-contrib-clean": "~0.5.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
